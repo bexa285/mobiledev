@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>business_service</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>100</order>
+        <record_id_field/>
+        <screen display_value="Details">ad09ccda1bd89c9078c07732dd4bcb58</screen>
+        <screen_data_item_table>rm_story</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>becca.doll</sys_created_by>
+        <sys_created_on>2020-04-22 17:51:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ad09ccda1bd89c9078c07732dd4bcbf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_service</sys_name>
+        <sys_package display_value="My CDI Work" source="x_cdi_my_cdi_work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My CDI Work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_scope>
+        <sys_update_name>sys_sg_screen_field_ad09ccda1bd89c9078c07732dd4bcbf1</sys_update_name>
+        <sys_updated_by>becca.doll</sys_updated_by>
+        <sys_updated_on>2020-04-22 17:51:04</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My CDI Work">9d780c1a1bd89c9078c07732dd4bcb1f</application>
+        <file_path/>
+        <instance_id>6f64dce3dba22f809df22f17d496191d</instance_id>
+        <instance_name>cdillcsandbox</instance_name>
+        <name>sys_sg_screen_field_ad09ccda1bd89c9078c07732dd4bcbf1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>business_service</data_item_field_name><description_text/><description_text_field/><description_text_type/><field_name/><hidden>false</hidden><order>100</order><record_id_field/><screen display_value="Details">ad09ccda1bd89c9078c07732dd4bcb58</screen><screen_data_item_table>rm_story</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>becca.doll</sys_created_by><sys_created_on>2020-04-22 17:51:04</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>ad09ccda1bd89c9078c07732dd4bcbf1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>business_service</sys_name><sys_package display_value="My CDI Work" source="x_cdi_my_cdi_work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="My CDI Work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_scope><sys_update_name>sys_sg_screen_field_ad09ccda1bd89c9078c07732dd4bcbf1</sys_update_name><sys_updated_by>becca.doll</sys_updated_by><sys_updated_on>2020-04-22 17:51:04</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>-973755686</payload_hash>
+        <record_name>business_service</record_name>
+        <reverted_from/>
+        <source>19780c1a1bd89c9078c07732dd4bcb22</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>becca.doll</sys_created_by>
+        <sys_created_on>2020-04-22 17:51:18</sys_created_on>
+        <sys_id>0919c41e1bd89c9078c07732dd4bcb8b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a303f7540000001</sys_recorded_at>
+        <sys_updated_by>becca.doll</sys_updated_by>
+        <sys_updated_on>2020-04-22 17:51:18</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>8119c41e1fd89c90add12ab01066b18b</update_guid>
+        <update_guid_history>8119c41e1fd89c90add12ab01066b18b:-973755686</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>becca.doll</sys_created_by>
+        <sys_created_on>2020-04-22 18:22:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>105d29d56bf9484382d2e5b889b64d69</sys_id>
+        <sys_metadata>ad09ccda1bd89c9078c07732dd4bcbf1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>business_service</sys_name>
+        <sys_package display_value="My CDI Work" source="x_cdi_my_cdi_work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My CDI Work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_scope>
+        <sys_scope_delete display_value="">007ced2c2eb241408031529e36021000</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_ad09ccda1bd89c9078c07732dd4bcbf1</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_ad09ccda1bd89c9078c07732dd4bcbf1">0919c41e1bd89c9078c07732dd4bcb8b</sys_update_version>
+        <sys_updated_by>becca.doll</sys_updated_by>
+        <sys_updated_on>2020-04-22 18:22:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

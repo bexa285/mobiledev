@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="My CDI Work">f3f888d61bd89c9078c07732dd4bcb47</applet_launcher>
+        <order>50</order>
+        <section display_value="Case">6509ccda1bd89c9078c07732dd4bcb51</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>becca.doll</sys_created_by>
+        <sys_created_on>2020-04-22 17:51:04</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a509ccda1bd89c9078c07732dd4bcb52</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My CDI Work" source="x_cdi_my_cdi_work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My CDI Work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_a509ccda1bd89c9078c07732dd4bcb52</sys_update_name>
+        <sys_updated_by>becca.doll</sys_updated_by>
+        <sys_updated_on>2020-04-22 18:02:11</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

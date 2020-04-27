@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Change Task)">cd098cda1bd89c9078c07732dd4bcb2e</button>
+        <item_parameter display_value="Change Task short_description">89098cda1bd89c9078c07732dd4bcb23</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>becca.doll</sys_created_by>
+        <sys_created_on>2020-04-22 17:51:02</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d9098cda1bd89c9078c07732dd4bcb40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>89098cda1bd89c9078c07732dd4bcb23</sys_name>
+        <sys_package display_value="My CDI Work" source="x_cdi_my_cdi_work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="My CDI Work">9d780c1a1bd89c9078c07732dd4bcb1f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_d9098cda1bd89c9078c07732dd4bcb40</sys_update_name>
+        <sys_updated_by>becca.doll</sys_updated_by>
+        <sys_updated_on>2020-04-22 17:51:02</sys_updated_on>
+        <ui_parameter display_value="Short description">95098cda1bd89c9078c07732dd4bcb34</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
